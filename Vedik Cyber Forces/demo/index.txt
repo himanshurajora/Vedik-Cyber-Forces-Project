@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Create Posts</title>
+    <?php
+    include("../includes.php");
+    ?>
+</head>
+
+<body>
+    <?php
+    include('../navbar.php');
+    ?>
+    <div class="jumbotron">
+        <h2>VCF DATABASE PORTAL</h2>
+    </div>
+    <div class="container">
+        <h2>Welcome to post creater of our website</h2>
+        <p>at this place you can create any post here without showing you identity ever and communicate to us without any fear</p>
+    </div>
+    </body> 
+</html>
