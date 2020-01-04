@@ -5,10 +5,12 @@ This is a project to create a basic community website server. eg. if you want to
  Preparing the servers: 
  
  {
+ 
  1. Download and install xampp servers
  2. Download and install the tor service
  3. Activate the hidden service of tor
  4. Download and install the tor service
+ 
  }
  
  Utilising the source code:
@@ -25,6 +27,7 @@ This is a project to create a basic community website server. eg. if you want to
     note: Change the name of the database from the conn.php file in line 2 if you dont't chose the test database and create a     custom one.
   
  4. Open the browser and enter localhost/<NameOfTheFolder> and hit enter
+ 
  } 
   
  # Congratulations! Now you have your own community server
@@ -36,10 +39,15 @@ This is a project to create a basic community website server. eg. if you want to
  We will try to update the resources of this project regularly if possible.
  
  Feel free to contact up:
+ 
   Blog: https://hackedserver.blogspot.com
+  
   Instagram: @himy.in or @er.himy.in
+  
   Facebook: https://www.facebook.com/einsteinnasa
+  
   Website(Dark Web {Use The Tor browser}): qzofyn3j6vvlatp3.onion
+  
   Note: The dark web website uses our own servers its not a webhosting so they are usually on from 7PM to 10PM only
         or just try anytime and it will work if you are luckey.
         
