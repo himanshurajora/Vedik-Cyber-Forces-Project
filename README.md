@@ -38,7 +38,7 @@ This is a project to create a basic community website server. eg. if you want to
  if you just want a basic community server or website then this project is for you. 
  We will try to update the resources of this project regularly if possible.
  
- Feel free to contact up:
+ Feel free to contact us:
  
   Blog: https://hackedserver.blogspot.com
   
